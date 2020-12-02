@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "트렌디한 상품추천"
+title: "Shopping list"
+description: "junlyang의 상품 추천 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /shopping
