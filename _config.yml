@@ -1,7 +1,7 @@
 # Site
-name: "트렌디한 상품추천"
+name: "최근 관심받는 쿠팡 상품 추천"
 title: "Shopping list"
-description: "junlyang의 상품 추천 블로그"
+description: "JL의 상품 추천 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /shopping
